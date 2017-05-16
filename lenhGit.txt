@@ -1,3 +1,4 @@
 git --version
 git init
 git add *
+git push -f origin master
